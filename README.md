@@ -5,7 +5,7 @@
 
 ##
 
-### 💻 Estudo em processo:
+### 💻 Estudando no momento:
 * HTML5 
 * CSS3 
 * JavaScript
