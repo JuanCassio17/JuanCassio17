@@ -10,6 +10,13 @@
 * CSS3 
 * JavaScript
 
+##
+
+### Em constante aprendizado:
+__________ <img src="https://img.icons8.com/color/80/000000/linux--v2.png"/> __________
+
+##
+
  <div>
   <a href="https://github.com/JuanCassio17">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanCassio17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
