@@ -34,7 +34,7 @@ __________ <img src="https://img.icons8.com/color/80/000000/linux--v2.png"/> ___
 
   
 </a> 
-  <a href="https://www.linkedin.com/in/juan-c%C3%A1ssio-8094851ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/juancassiomarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
   <a href="mailto:juancassiomarques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mrcssio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4480F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
  
