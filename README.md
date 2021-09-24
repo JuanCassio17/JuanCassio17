@@ -19,7 +19,7 @@ __________ <img src="https://img.icons8.com/color/80/000000/linux--v2.png"/> ___
 
  <div>
   <a href="https://github.com/juancassioo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanCassio17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juancassioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
   <div style="display: inline_block"><br>
