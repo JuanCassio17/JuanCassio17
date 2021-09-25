@@ -1,4 +1,5 @@
 ## Olá, me chamo Juan!
+Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
 ### 👇 Veja meu primeiro projeto Android
 
 ### [Gerenciador-Livros](https://github.com/JuanCassio17/gerenciador-livros) 👈
