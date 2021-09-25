@@ -14,7 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
 ##
 
 ### Em constante aprendizado:
-__________ <img src="https://img.icons8.com/color/80/000000/linux--v2.png"/> __________
+_________ <img src="https://img.icons8.com/color/80/000000/linux--v2.png"/> _________
 
 ##
 
