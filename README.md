@@ -7,7 +7,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
 ##
 
 ### 💻 Estudando no momento:
-* Java Swing
+* Aplicação Java para sistema Web
 * Aprimorando os conhecimentos em Banco de Dados
 
 ##
