@@ -1,5 +1,6 @@
 ## Olá, me chamo Juan!
 Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
+Estagiário de implantação na Menew - PB.
 
 ##
 
@@ -12,6 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
   <div style="display: inline_block"><br>
   <img align="center" alt="Juan-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Juan-Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Juan-Firebird" height="50" width="60" src="https://www.firebirddevelopersday.com.br/fdd/2019/assets/img/preview/big-fdd-logo.png">
 </div>
   
   ##
