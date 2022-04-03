@@ -1,6 +1,6 @@
 ## Olá, me chamo Juan!
 Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
-<br> Técnico de apoio ao usuário de informática (HelpDesk) na Menew - PB.
+<br> Analista de Implantançao Júnior na Linx.
 
 ##
 
