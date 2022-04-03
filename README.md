@@ -1,6 +1,6 @@
 ## Olá, me chamo Juan!
 Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
-<br> Analista de Implantançao Júnior na Linx.
+<br> Analista de Implantação Júnior na Linx.
 
 ##
 
