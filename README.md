@@ -1,5 +1,5 @@
 ## Olá, me chamo Juan!
-Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
+Analista e Desenvolvedor de Sistemas
 <br> Analista Júnior na Linx | Stone Co.
 
 ##
