@@ -5,8 +5,7 @@ Analista e Desenvolvedor de Sistemas
 ##
 
 ### 💻 Estudando no momento:
-* Aplicação Java para sistema Web
-* Aprimorando os conhecimentos em Banco de Dados
+* Pós-graduação lato sensu em Análise e Desenvolvimento de Aplicativos Móveis pela Multivix.
 
 ##
 
