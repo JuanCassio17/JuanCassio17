@@ -1,12 +1,12 @@
 ## Olá, me chamo Juan!
-Analista e Desenvolvedor de Sistemas
+formado em Analíse e Desenvolvimento pela Uniesp-PB
+Pós-graduação lato sensu em Análise e Desenvolvimento de Aplicativos Móveis pela Multivix.
 <br> Analista Júnior na Linx | Stone Co.
 
 ##
 
 ### 💻 Estudando no momento:
-* Pós-graduação lato sensu em Análise e Desenvolvimento de Aplicativos Móveis pela Multivix.
-
+* Análise e Desenvolvimento de aplicativos móveis com o professor Jamilton Damasceno.
 ##
 
   <div style="display: inline_block"><br>
