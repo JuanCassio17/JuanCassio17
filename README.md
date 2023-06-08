@@ -7,7 +7,7 @@ Mestrando no Programa de Pós Graduação em Tecnologia da Informação pelo Ins
 ##
 
 ### 💻 Estudando no momento:
-* Javascript - Cod3r com Leonardo Leitão .
+* JavaScript - Cod3r com Leonardo Leitão .
 ##
 
   <div style="display: inline_block"><br>
