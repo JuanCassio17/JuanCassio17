@@ -7,7 +7,7 @@ Mestrando no Programa de Pós Graduação em Tecnologia da Informação pelo Ins
 ##
 
 ### 💻 Estudando no momento:
-* Análise e Desenvolvimento de aplicativos móveis com o professor Jamilton Damasceno.
+* Javascript - Cod3r com Leonardo Leitão .
 ##
 
   <div style="display: inline_block"><br>
