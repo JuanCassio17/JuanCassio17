@@ -15,7 +15,8 @@ Mestrando no Programa de Pós Graduação em Tecnologia da Informação pelo Ins
   <img align="center" alt="Juan-Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Juan-Android" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
    <img align="center" alt="logo-javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <!--img align="center" alt="Juan-Firebird" height="50" width="60" src="https://www.firebirddevelopersday.com.br/fdd/2019/assets/img/preview/big-fdd-logo.png"-->
+   <img align="center" alt="Juan-Android" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+    <!--img align="center" alt="Juan-Firebird" height="50" width="60" src="https://www.firebirddevelopersday.com.br/fdd/2019/assets/img/preview/big-fdd-logo.png"-->
 </div>
   
   ##
