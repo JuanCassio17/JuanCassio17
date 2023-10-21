@@ -7,7 +7,7 @@ Mestrando no Programa de Pós Graduação em Tecnologia da Informação pelo Ins
 ##
 
 ### 💻 Estudando no momento:
-* JavaScript - Cod3r com Leonardo Leitão.
+* React - Hora de Codar com Matheus Battist.
 ##
 
   <div style="display: inline_block"><br>
