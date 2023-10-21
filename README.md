@@ -1,5 +1,5 @@
 ## Olá, me chamo Juan!
-Formação em Analíse e Desenvolvimento pela Uniesp-PB, <br/>
+Formação em Analíse e Desenvolvimento de Sistemas pela Uniesp-PB, <br/>
 Pós-graduação lato sensu em Análise e Desenvolvimento de Aplicativos Móveis pela Multivix && <br/>
 Mestrando no Programa de Pós Graduação em Tecnologia da Informação pelo Instituto Federal da Paraíba.
 <br> Analista Júnior na Linx | Stone Co.
